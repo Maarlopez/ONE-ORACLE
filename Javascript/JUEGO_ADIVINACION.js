@@ -1,5 +1,3 @@
-<script>
-
 	function saltarLinea(){
 		document.write("<br>");
 		document.write("<br>");
@@ -22,5 +20,3 @@
 	else{
 		imprimir("usted erró, el numero pensado era: " + numeroPensado);
 	}
-
-</script>
